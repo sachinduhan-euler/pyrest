@@ -1,0 +1,4 @@
+APP_NAME = "sanic_test"
+APP_HOST_URL = "0.0.0.0"
+PORT = 8080
+ALLOW_ACCESS_LOGS = True
